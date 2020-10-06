@@ -1,2 +1,2 @@
 # leetcode
-A collection of completed solutions to leetcode probelms in numeric order and stored in folders for each language.
+A collection of completed solutions to leetcode problems in numeric order and stored in folders for each language.
