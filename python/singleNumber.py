@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/single-number/
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
         # Declares an empty list whose purpose is to contain one single unique number
