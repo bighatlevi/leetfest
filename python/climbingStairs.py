@@ -2,7 +2,7 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
         # Fibonacci sequence
-        a, b = 1
+        a, b = 1, 1
         for i in range(n):
             c = b
             b = a + b
