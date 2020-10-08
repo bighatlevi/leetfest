@@ -5,8 +5,10 @@ Pull request quick guide
 1. Fork repository
 2. Clone the fork by using: git clone "clone link"
 3. Create a branch: git branch "branch name"
-4. Add: git add .
-5. Commit: git commit -m "commit message"
-6. Push: git push origin "branch name"
-7. Create a new pull request from fork on github
-8. Wait for merge approval!
+4. Switch to branch: git checkout "branch name"
+5. Add: git add .
+6. Commit: git commit -m "commit message"
+7. Push: git push origin "branch name"
+8. Create a new pull request from fork on github
+9. Wait for merge approval!
+* Use git status to see changes
