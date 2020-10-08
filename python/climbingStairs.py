@@ -4,7 +4,7 @@ class Solution:
         # Fibonacci sequence
         a, b = 1
         for i in range(n):
-            temp = b
+            c = b
             b = a + b
-            a = temp
+            a = c
         return a
