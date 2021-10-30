@@ -1,4 +1,4 @@
-Feel free to add solutions to leetcode problems, preferably ones that have not been added already.
+Feel free to add your completed programs, preferably ones that have not been added already.
 Please add your solution to the appropriate folder, if there is no folder for the language your solution is in you may create one.
 
 Pull request quick guide
